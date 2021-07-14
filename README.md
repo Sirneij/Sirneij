@@ -1,4 +1,11 @@
- Hi, I am John 👋! A selfless humanitarian and volunteer as well as an budding full-stack Software Engineer with reasonable experience building and deploying, on Linux-based servers, Web Applications with Python (Flask and Django), Rust, HTML, CSS and JavaScript. I am a budding competitive Programmer with budding problem-solving skills using Python, C, JavaScript, Julia, and C++ on various online competitive Programming platforms such as HackerRank, and TopCoders. I have a passion for creating efficient customer-centric software solutions to complex problems. Ultimately, I solve real-world challenges by designing, building, and implementing end-to-end systems. Hence my active participation in various software development teams. I am very passionate about Software Development. I am always interested in solving problems regardless of industry.
+ Hi, I am John 👋! A selfless humanitarian and volunteer as well as an budding full-stack Software Engineer with reasonable experience building and deploying, on Linux-based servers, Web Applications with Python (Flask and Django), Rust, HTML, CSS and JavaScript. I have a passion for creating efficient customer-centric software solutions to complex problems. Ultimately, I solve real-world challenges by designing, building, and implementing end-to-end systems. Hence my active participation in various software development teams. I am very passionate about Software Development. I am always interested in solving problems regardless of industry.
+
+- 🔭 I’m currently working on security systems that utilize biometrics for the web.
+- 🌱 I’m currently learning rust and machine learning. I love rust's speed and type safe implementation. WebAsm is also appealing!
+- 👯 I’m looking to collaborate on rust and python projects.
+- 🤔 I’m looking for help with advanced Data structures and Algorithms.
+- 💬 Ask me about anything on your mind. I may have answers, you know...
+- 📫 How to reach me: Contact me via sirneij@gmail.com
 
 <!--
 **Sirneij/Sirneij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
