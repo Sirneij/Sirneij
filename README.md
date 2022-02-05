@@ -74,4 +74,16 @@ Here are some ideas to get you started:
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [One-page CRM Admin Dashboard using HTML5, CSS3 and JavaScript](https://dev.to/sirneij/one-page-admin-dashboard-using-html5-css3-and-javascript-13fk)
+- [Beautiful Hackernews UI: Working with Hackernews API in Python &lpar;Django&rpar;](https://dev.to/sirneij/beautiful-hackernews-ui-working-with-hackernews-api-in-python-django-55ck)
+- [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 4](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-4-2a2i)
+- [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 3](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-3-37kb)
+- [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 2](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-2-8df)
+- [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-3np2)
+- [Django and Ajax: Building a Django live recording application](https://dev.to/sirneij/django-and-ajax-building-a-recording-application-4j0a)
+- [Building Slack UI with pure HTML5, CSS3 and JavaScript: The power of CSS grids and flexbox](https://dev.to/sirneij/building-slack-ui-with-pure-html5-css3-and-javascript-the-power-of-css-grids-and-flexbox-4ban)
+- [Deploying GeoDjango applications on heroku: Easy workthrough](https://dev.to/sirneij/deploying-geodjango-applications-on-heroku-easy-workthrough-3l3k)
+- [A Command Line Key-Value Data Store using the Rust Programming Language.](https://dev.to/sirneij/a-command-line-key-value-data-store-using-the-rust-programming-language-33b6)
+- [Fingerprint-based authentication and Authorization in Python&lpar;Django&rpar; web applications - Hacking your way out &lpar;Part 3&rpar;](https://dev.to/sirneij/fingerprint-based-authentication-and-authorization-in-python-django-web-applications-hacking-your-way-out-part-3-2f3e)
+- [Fingerprint-based authentication and Authorization in Python&lpar;Django&rpar; web applications - Second part](https://dev.to/sirneij/fingerprint-based-authentication-and-authorization-in-python-django-web-applications-second-part-57n)
 <!-- BLOG-POST-LIST:END -->
