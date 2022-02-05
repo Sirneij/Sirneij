@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on rust and python projects.
 - 🤔 I’m looking for help with advanced Data structures and Algorithms.
 - 💬 Ask me about anything on your mind. I may have answers, you know...
-- 📫 How to reach me: Contact me via sirneij@gmail.com
+- 📫 How to reach me: Contact me via "sirneij at gmail dot com"
 
 <!--
 **Sirneij/Sirneij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
