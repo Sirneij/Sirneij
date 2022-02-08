@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [FullStack JWT Auth: User serializers, Views, and Endpoints](https://dev.to/sirneij/fullstack-jwt-auth-user-serializers-and-views-52eg)
 - [FullStack JWT Authentication and Authorization System with Django and SvelteKit](https://dev.to/sirneij/fullstack-jwt-authentication-and-authorization-system-with-django-and-sveltekit-2ih3)
 - [One-page CRM Admin Dashboard using HTML5, CSS3 and JavaScript](https://dev.to/sirneij/one-page-admin-dashboard-using-html5-css3-and-javascript-13fk)
 - [Beautiful Hackernews UI: Working with Hackernews API in Python &lpar;Django&rpar;](https://dev.to/sirneij/beautiful-hackernews-ui-working-with-hackernews-api-in-python-django-55ck)
@@ -84,5 +85,4 @@ Here are some ideas to get you started:
 - [Building Slack UI with pure HTML5, CSS3 and JavaScript: The power of CSS grids and flexbox](https://dev.to/sirneij/building-slack-ui-with-pure-html5-css3-and-javascript-the-power-of-css-grids-and-flexbox-4ban)
 - [Deploying GeoDjango applications on heroku: Easy workthrough](https://dev.to/sirneij/deploying-geodjango-applications-on-heroku-easy-workthrough-3l3k)
 - [A Command Line Key-Value Data Store using the Rust Programming Language.](https://dev.to/sirneij/a-command-line-key-value-data-store-using-the-rust-programming-language-33b6)
-- [Fingerprint-based authentication and Authorization in Python&lpar;Django&rpar; web applications - Hacking your way out &lpar;Part 3&rpar;](https://dev.to/sirneij/fingerprint-based-authentication-and-authorization-in-python-django-web-applications-hacking-your-way-out-part-3-2f3e)
 <!-- BLOG-POST-LIST:END -->
