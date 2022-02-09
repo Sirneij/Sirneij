@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [FullStack JWT: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
+- [FullStack JWT Auth: Diving into SvelteKit - Layout and Logout](https://dev.to/sirneij/fullstack-jwt-diving-into-sveltekit-layout-and-logout-1ok3)
+- [FullStack JWT Auth: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
 - [FullStack JWT Auth: User serializers, Views, and Endpoints](https://dev.to/sirneij/fullstack-jwt-auth-user-serializers-and-views-52eg)
 - [FullStack JWT Authentication and Authorization System with Django and SvelteKit](https://dev.to/sirneij/fullstack-jwt-authentication-and-authorization-system-with-django-and-sveltekit-2ih3)
 - [One-page CRM Admin Dashboard using HTML5, CSS3 and JavaScript](https://dev.to/sirneij/one-page-admin-dashboard-using-html5-css3-and-javascript-13fk)
@@ -84,5 +85,4 @@ Here are some ideas to get you started:
 - [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-3np2)
 - [Django and Ajax: Building a Django live recording application](https://dev.to/sirneij/django-and-ajax-building-a-recording-application-4j0a)
 - [Building Slack UI with pure HTML5, CSS3 and JavaScript: The power of CSS grids and flexbox](https://dev.to/sirneij/building-slack-ui-with-pure-html5-css3-and-javascript-the-power-of-css-grids-and-flexbox-4ban)
-- [Deploying GeoDjango applications on heroku: Easy workthrough](https://dev.to/sirneij/deploying-geodjango-applications-on-heroku-easy-workthrough-3l3k)
 <!-- BLOG-POST-LIST:END -->
