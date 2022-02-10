@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [FullStack JWT Auth: Diving into SvelteKit - Login and Registration](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-login-and-registration-10c2)
 - [FullStack JWT Auth: Diving into SvelteKit - Layout and Logout](https://dev.to/sirneij/fullstack-jwt-diving-into-sveltekit-layout-and-logout-1ok3)
 - [FullStack JWT Auth: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
 - [FullStack JWT Auth: User serializers, Views, and Endpoints](https://dev.to/sirneij/fullstack-jwt-auth-user-serializers-and-views-52eg)
@@ -84,5 +85,4 @@ Here are some ideas to get you started:
 - [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 2](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-2-8df)
 - [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-3np2)
 - [Django and Ajax: Building a Django live recording application](https://dev.to/sirneij/django-and-ajax-building-a-recording-application-4j0a)
-- [Building Slack UI with pure HTML5, CSS3 and JavaScript: The power of CSS grids and flexbox](https://dev.to/sirneij/building-slack-ui-with-pure-html5-css3-and-javascript-the-power-of-css-grids-and-flexbox-4ban)
 <!-- BLOG-POST-LIST:END -->
