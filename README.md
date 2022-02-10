@@ -10,6 +10,9 @@
   <a href="https://twitter.com/sirneij">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://drive.google.com/file/d/1pG-MPW7dOqA9_ICbrUCugwHTr0xhr8E4/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Resume" />
+  </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=sirneij&style=flat-square&color=blue" alt=""/>
 </div>
