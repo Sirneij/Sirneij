@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [FullStack JWT Auth: Diving into SvelteKit - Profile Update](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-profile-update-3f6f)
 - [FullStack JWT Auth: Diving into SvelteKit - Login and Registration](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-login-and-registration-10c2)
 - [FullStack JWT Auth: Diving into SvelteKit - Layout and Logout](https://dev.to/sirneij/fullstack-jwt-diving-into-sveltekit-layout-and-logout-1ok3)
 - [FullStack JWT Auth: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
@@ -87,5 +88,4 @@ Here are some ideas to get you started:
 - [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 3](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-3-37kb)
 - [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 2](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-2-8df)
 - [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-3np2)
-- [Django and Ajax: Building a Django live recording application](https://dev.to/sirneij/django-and-ajax-building-a-recording-application-4j0a)
 <!-- BLOG-POST-LIST:END -->
