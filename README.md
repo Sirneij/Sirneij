@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Django and Openpyxl: Extracting and Sending Django model data as excel file &lpar;.xlsx&rpar;](https://dev.to/sirneij/django-and-openpyxl-extracting-and-sending-django-model-data-as-excel-file-xlsx-ll3)
 - [Making Django Global Settings Dynamic: The Singleton Design Pattern](https://dev.to/sirneij/making-django-global-settings-dynamic-the-singleton-design-pattern-25en)
 - [FullStack JWT Auth: Diving into SvelteKit - Profile Update](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-profile-update-3f6f)
 - [FullStack JWT Auth: Diving into SvelteKit - Login and Registration](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-login-and-registration-10c2)
@@ -87,5 +88,4 @@ Here are some ideas to get you started:
 - [Beautiful Hackernews UI: Working with Hackernews API in Python &lpar;Django&rpar;](https://dev.to/sirneij/beautiful-hackernews-ui-working-with-hackernews-api-in-python-django-55ck)
 - [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 4](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-4-2a2i)
 - [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 3](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-3-37kb)
-- [Django and Ajax: Robust authentication and authorization system with real-time form validations for web applications - 2](https://dev.to/sirneij/django-and-ajax-robust-authentication-and-authorization-system-with-real-time-form-validations-for-web-applications-2-8df)
 <!-- BLOG-POST-LIST:END -->
