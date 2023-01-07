@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Frontend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/frontend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-d8l)
-- [Backend: One-on-one &lpar;duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/backend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-1bim)
+- [Backend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/backend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-1bim)
 - [FullStack JWT Auth: Migrating SvelteKit to its latest version](https://dev.to/sirneij/fullstack-jwt-auth-migrating-sveltekit-to-its-latest-version-fhd)
 - [Building a barebone Web API service in Python without a web framework](https://dev.to/sirneij/building-a-barebone-web-api-service-in-python-without-a-web-framework-20hl)
 - [Django and Google Spreadsheet API: Automatically creating and deleting multiple tabs or sheets](https://dev.to/sirneij/django-and-google-spreadsheet-api-automatically-creating-and-deleting-multiple-tabs-or-sheets-3hi0)
