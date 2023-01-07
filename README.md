@@ -76,6 +76,8 @@ Here are some ideas to get you started:
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Frontend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/frontend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-d8l)
+- [Backend: One-on-one &lpar;duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/backend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-1bim)
 - [FullStack JWT Auth: Migrating SvelteKit to its latest version](https://dev.to/sirneij/fullstack-jwt-auth-migrating-sveltekit-to-its-latest-version-fhd)
 - [Building a barebone Web API service in Python without a web framework](https://dev.to/sirneij/building-a-barebone-web-api-service-in-python-without-a-web-framework-20hl)
 - [Django and Google Spreadsheet API: Automatically creating and deleting multiple tabs or sheets](https://dev.to/sirneij/django-and-google-spreadsheet-api-automatically-creating-and-deleting-multiple-tabs-or-sheets-3hi0)
@@ -86,6 +88,4 @@ Here are some ideas to get you started:
 - [FullStack JWT Auth: Diving into SvelteKit - Login and Registration](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-login-and-registration-10c2)
 - [FullStack JWT Auth: Diving into SvelteKit - Layout and Logout](https://dev.to/sirneij/fullstack-jwt-diving-into-sveltekit-layout-and-logout-1ok3)
 - [FullStack JWT Auth: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
-- [FullStack JWT Auth: User serializers, Views, and Endpoints](https://dev.to/sirneij/fullstack-jwt-auth-user-serializers-and-views-52eg)
-- [FullStack JWT Authentication and Authorization System with Django and SvelteKit](https://dev.to/sirneij/fullstack-jwt-authentication-and-authorization-system-with-django-and-sveltekit-2ih3)
 <!-- BLOG-POST-LIST:END -->
