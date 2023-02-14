@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Building a clone of dev.to&#39;s editor with SvelteKit and TypeScript](https://dev.to/sirneij/building-a-clone-of-devtos-editor-with-sveltekit-and-typescript-ma6)
 - [Frontend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/frontend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-d8l)
 - [Backend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/backend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-1bim)
 - [FullStack JWT Auth: Migrating SvelteKit to its latest version](https://dev.to/sirneij/fullstack-jwt-auth-migrating-sveltekit-to-its-latest-version-fhd)
@@ -87,5 +88,4 @@ Here are some ideas to get you started:
 - [FullStack JWT Auth: Diving into SvelteKit - Profile Update](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-profile-update-3f6f)
 - [FullStack JWT Auth: Diving into SvelteKit - Login and Registration](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-login-and-registration-10c2)
 - [FullStack JWT Auth: Diving into SvelteKit - Layout and Logout](https://dev.to/sirneij/fullstack-jwt-diving-into-sveltekit-layout-and-logout-1ok3)
-- [FullStack JWT Auth: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
 <!-- BLOG-POST-LIST:END -->
