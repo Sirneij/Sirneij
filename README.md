@@ -18,9 +18,9 @@
 </div>
 
 --- 
- Hi, I am John 👋! A FullStack Software Engineer with some experience building and deploying, on Linux-based servers (Debian-based mostly), Web Applications with Python (Django), Rust (Actix-web, Axum, Warp), HTML, CSS (Pure, Sass, Bootstrap, Tailwind, Bulma, and Materialize) and JavaScript (Vanilla, jQuery, and Svelte/SvelteKit). I have a passion for creating efficient customer-centric software solutions to complex problems. I solve real-world challenges by designing, building, and implementing end-to-end systems. I am very passionate about Software Engineering and always interested in solving problems regardless of industry. Ultimately, it is my dream to be part of a team where I can actively contribute to building what matters while learning and honing my skills.
-- 🔭 I’m currently working on FinTech products,automating some important business tasks.
-- 🌱 I’m currently learning rust and machine learning. I love rust's speed and type safe implementation. WebAsm is also appealing!
+ Hi, I am John 👋! A FullStack Software Engineer with some experience building and deploying, on Linux-based servers (mostly Debian-based), Web Applications with Python (Django), Rust (Actix-web, Axum, Warp), HTML, CSS (Pure, Sass, Bootstrap, Tailwind, Bulma, and Materialize) and JavaScript (Vanilla, jQuery, and Svelte/SvelteKit). I have a passion for creating efficient customer-centric software solutions to complex problems. I solve real-world challenges by designing, building, and implementing end-to-end systems. I am very passionate about Software Engineering and always interested in solving problems regardless of industry. Ultimately, I dream of being part of a team where I can actively contribute to building what matters while learning and honing my skills.
+- 🔭 I’m working on FinTech products, automating some important business tasks.
+- 🌱 I’m currently learning rust and machine learning. I love rust's speed and type-safe implementation. WebAsm is also appealing!
 - 👯 I’m looking to collaborate on rust and python projects.
 - 🤔 I’m looking for help with Data structures and Algorithms.
 - 💬 Ask me about anything on your mind. I may have answers, you know...
