@@ -61,6 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - DB and Redis Config](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-db-and-redis-config-38fp)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Backend Intro](https://dev.to/sirneij/full-stack-authentication-system-using-rust-actix-web-and-sveltekit-1cc6)
 - [Building a clone of dev.to&#39;s markdown editor with SvelteKit and TypeScript](https://dev.to/sirneij/building-a-clone-of-devtos-editor-with-sveltekit-and-typescript-ma6)
 - [Frontend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/frontend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-d8l)
@@ -72,5 +73,4 @@
 - [Django and Openpyxl: Extracting and Sending Django model data as excel file &lpar;.xlsx&rpar;](https://dev.to/sirneij/django-and-openpyxl-extracting-and-sending-django-model-data-as-excel-file-xlsx-ll3)
 - [Making Django Global Settings Dynamic: The Singleton Design Pattern](https://dev.to/sirneij/making-django-global-settings-dynamic-the-singleton-design-pattern-25en)
 - [FullStack JWT Auth: Diving into SvelteKit - Profile Update](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-profile-update-3f6f)
-- [FullStack JWT Auth: Diving into SvelteKit - Login and Registration](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-login-and-registration-10c2)
 <!-- BLOG-POST-LIST:END -->
