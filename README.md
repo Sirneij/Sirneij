@@ -61,7 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Full-stack authentication system using rust &lpar;actix-web&rpar; and sveltekit](https://dev.to/sirneij/full-stack-authentication-system-using-rust-actix-web-and-sveltekit-1cc6)
+- [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Backend Intro](https://dev.to/sirneij/full-stack-authentication-system-using-rust-actix-web-and-sveltekit-1cc6)
 - [Building a clone of dev.to&#39;s markdown editor with SvelteKit and TypeScript](https://dev.to/sirneij/building-a-clone-of-devtos-editor-with-sveltekit-and-typescript-ma6)
 - [Frontend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/frontend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-d8l)
 - [Backend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/backend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-1bim)
