@@ -61,6 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Log in/out, Dockerize and Deploy on fly.io](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-log-inout-dockerize-and-deploy-on-flyio-58pc)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - CORS and Frontend Integration](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-cors-and-frontend-integration-2j0h)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Login and Logout](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-login-and-logout-1eb9)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - User Registration](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-user-registration-580h)
@@ -72,5 +73,4 @@
 - [FullStack JWT Auth: Migrating SvelteKit to its latest version](https://dev.to/sirneij/fullstack-jwt-auth-migrating-sveltekit-to-its-latest-version-fhd)
 - [Building a barebone Web API service in Python without a web framework](https://dev.to/sirneij/building-a-barebone-web-api-service-in-python-without-a-web-framework-20hl)
 - [Django and Google Spreadsheet API: Automatically creating and deleting multiple tabs or sheets](https://dev.to/sirneij/django-and-google-spreadsheet-api-automatically-creating-and-deleting-multiple-tabs-or-sheets-3hi0)
-- [Django and Google Spreadsheet API: Using Django model data to update spreadsheet](https://dev.to/sirneij/django-and-google-spreadsheet-api-using-django-model-data-to-update-spreadsheet-ip4)
 <!-- BLOG-POST-LIST:END -->
