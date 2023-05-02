@@ -61,6 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Enhancing the frontend application with form actions](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-enhancing-the-frontend-application-with-form-actions-3d10)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - User Profile Update UI](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-user-profile-update-ui-4f78)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - File upload to AWS S3, Profile Update](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-file-upload-to-aws-s3-profile-update-3b2a)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Log in/out, Dockerize and Deploy on fly.io](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-log-inout-dockerize-and-deploy-on-flyio-58pc)
@@ -72,5 +73,4 @@
 - [Building a clone of dev.to&#39;s markdown editor with SvelteKit and TypeScript](https://dev.to/sirneij/building-a-clone-of-devtos-editor-with-sveltekit-and-typescript-ma6)
 - [Frontend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/frontend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-d8l)
 - [Backend: One-on-one &lpar;Duologue&rpar; chatting application with Django channels and SvelteKit](https://dev.to/sirneij/backend-one-on-one-duologue-chatting-application-with-django-channels-and-sveltekit-1bim)
-- [FullStack JWT Auth: Migrating SvelteKit to its latest version](https://dev.to/sirneij/fullstack-jwt-auth-migrating-sveltekit-to-its-latest-version-fhd)
 <!-- BLOG-POST-LIST:END -->
