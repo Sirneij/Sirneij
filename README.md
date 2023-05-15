@@ -61,6 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using Python &lpar;Django&rpar; and SvelteKit](https://dev.to/sirneij/authentication-system-using-python-django-and-sveltekit-23e1)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Automated testing](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-automated-testing-1nhi)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Token regeneration and password reset](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-token-regeneration-and-password-reset-2eai)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Enhancing the frontend application with form actions](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-enhancing-the-frontend-application-with-form-actions-3d10)
@@ -72,5 +73,4 @@
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - User Registration](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-user-registration-580h)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - DB and Redis Config](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-db-and-redis-config-38fp)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Backend Intro](https://dev.to/sirneij/full-stack-authentication-system-using-rust-actix-web-and-sveltekit-1cc6)
-- [Building a clone of dev.to&#39;s markdown editor with SvelteKit and TypeScript](https://dev.to/sirneij/building-a-clone-of-devtos-editor-with-sveltekit-and-typescript-ma6)
 <!-- BLOG-POST-LIST:END -->
