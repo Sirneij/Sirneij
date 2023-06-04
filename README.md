@@ -61,6 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
 - [Authentication system using Golang and Sveltekit - User account activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-account-activation-59f)
 - [Authentication system using Golang and Sveltekit - User registration](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-registration-5981)
 - [Authentication system using Golang and Sveltekit - Initialization and setup](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-initialization-and-setup-4oc9)
@@ -72,5 +73,4 @@
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Automated testing](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-automated-testing-1nhi)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Token regeneration and password reset](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-token-regeneration-and-password-reset-2eai)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Enhancing the frontend application with form actions](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-enhancing-the-frontend-application-with-form-actions-3d10)
-- [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - User Profile Update UI](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-user-profile-update-ui-4f78)
 <!-- BLOG-POST-LIST:END -->
