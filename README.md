@@ -61,6 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using Golang and Sveltekit - Frontend Log in and out](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-log-in-and-out-3l5h)
 - [Authentication system using Golang and Sveltekit - Login and Logout](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-login-and-logout-1k76)
 - [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
 - [Authentication system using Golang and Sveltekit - User account activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-user-account-activation-59f)
@@ -72,5 +73,4 @@
 - [Authentication system using Python &lpar;Django&rpar; and SvelteKit - Setup, Login &amp; Logout](https://dev.to/sirneij/authentication-system-using-python-django-and-sveltekit-setup-login-logout-abg)
 - [Authentication system using Python &lpar;Django&rpar; and SvelteKit](https://dev.to/sirneij/authentication-system-using-python-django-and-sveltekit-23e1)
 - [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Automated testing](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-automated-testing-1nhi)
-- [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Token regeneration and password reset](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-token-regeneration-and-password-reset-2eai)
 <!-- BLOG-POST-LIST:END -->
