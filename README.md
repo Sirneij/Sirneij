@@ -61,6 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Authentication system using Golang and Sveltekit - Profile update and app metric](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-profile-update-and-app-metric-4lhj)
 - [Authentication system using Golang and Sveltekit - Regenerate token &amp; Password change](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-regenerate-token-password-change-5g4p)
 - [Authentication system using Golang and Sveltekit - Frontend Log in and out](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-log-in-and-out-3l5h)
 - [Authentication system using Golang and Sveltekit - Login and Logout](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-login-and-logout-1k76)
@@ -72,5 +73,4 @@
 - [Authentication system using Python &lpar;Django&rpar; and SvelteKit - User Profile &amp; Password Update](https://dev.to/sirneij/authentication-system-using-python-django-and-sveltekit-user-profile-password-update-4fka)
 - [Authentication system using Python &lpar;Django&rpar; and SvelteKit - User Registration](https://dev.to/sirneij/authentication-system-using-python-django-and-sveltekit-user-registration-lb4)
 - [Authentication system using Python &lpar;Django&rpar; and SvelteKit - Setup, Login &amp; Logout](https://dev.to/sirneij/authentication-system-using-python-django-and-sveltekit-setup-login-logout-abg)
-- [Authentication system using Python &lpar;Django&rpar; and SvelteKit](https://dev.to/sirneij/authentication-system-using-python-django-and-sveltekit-23e1)
 <!-- BLOG-POST-LIST:END -->
