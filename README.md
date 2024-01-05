@@ -62,7 +62,7 @@
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 1](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-1-2mnn)
-- [Cryptoflow: Building a secure and scalable system with Axum and SvelteKit - Part 0](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-0-mn5)
+- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 0](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-0-mn5)
 - [Distributed Systems: Challenges, Experiences and Tips](https://dev.to/sirneij/distributed-systems-challenges-experiences-and-tips-eik)
 - [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 - [Authentication system using Golang and Sveltekit - Updating the frontend](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-updating-the-frontend-4a1g)
