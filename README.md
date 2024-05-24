@@ -18,8 +18,8 @@
 </div>
 
 --- 
- Hi, I am John 👋! A Software Engineer with some experience building and deploying, on Linux-based servers (mostly Debian-based), Web Applications with Python (Django), Rust (Actix-web, Axum, Warp), Go, HTML, CSS (Pure, Sass, Bootstrap, Tailwind, Bulma, and Materialize) and JavaScript (Vanilla, jQuery, and Svelte/SvelteKit). I have a passion for creating efficient customer-centric software solutions to complex problems. I solve real-world challenges by designing, building, and implementing end-to-end systems. I am very passionate about Software Engineering and always interested in solving problems regardless of industry. Ultimately, I dream of being part of a team where I can actively contribute to building what matters while learning and honing my skills.
-- 🔭 I’m working on FinTech products, automating some important business tasks.
+ Hi, I am John 👋! A Software Engineer crafting user-friendly web apps with Python (Django), Rust (Actix, Axum), Golang, and diverse front-end frameworks. Passionate about tackling complex problems and building impactful software with collaborative teams. Seeking opportunity to learn and contribute to something meaningful.
+- 🔭 I’m interested in working on FinTech products, automating some important business tasks.
 - 🌱 I’m currently learning rust and machine learning. I love Rust's speed and type-safe implementation. WebAsm is also appealing!
 - 👯 I’m looking to collaborate on Rust and Python projects.
 - 🤔 I’m looking for help with Data structures and Algorithms.
