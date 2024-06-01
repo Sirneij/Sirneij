@@ -1,7 +1,7 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  <div id="badges">
-  <a href="https://www.linkedin.com/in/idogun-john-nelson/">
+  <a href="https://www.linkedin.com/in/john-owolabi-idogun">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://dev.to/sirneij/">
@@ -10,7 +10,7 @@
   <a href="https://twitter.com/sirneij">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1pG-MPW7dOqA9_ICbrUCugwHTr0xhr8E4/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1V_0PjQOmWvV82rk4hPdvyLVWyDCpQL6m/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Resume" />
   </a>
 </div>
@@ -18,7 +18,7 @@
 </div>
 
 --- 
- Hi, I am John 👋! A Software Engineer crafting user-friendly web apps with Python (Django), Rust (Actix, Axum), Golang, and diverse front-end frameworks. Passionate about tackling complex problems and building impactful software with collaborative teams. Seeking opportunity to learn and contribute to something meaningful.
+ Hi, I am John 👋! A Software Engineer crafting user-friendly web apps with Python (Django), Rust (Actix, Axum), Golang, and diverse front-end frameworks. Passionate about tackling complex problems and building impactful software with collaborative teams. Seeking an opportunity to learn and contribute to something meaningful.
 - 🔭 I’m interested in working on FinTech products, automating some important business tasks.
 - 🌱 I’m currently learning rust and machine learning. I love Rust's speed and type-safe implementation. WebAsm is also appealing!
 - 👯 I’m looking to collaborate on Rust and Python projects.
