@@ -61,6 +61,7 @@
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Building TailwindUI&#39;s Spotlight using SvelteKit and Svelte 5 with TailwindCSS](https://dev.to/sirneij/building-tailwinduis-spotlight-using-sveltekit-and-svelte-5-with-tailwindcss-5f7f)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 6](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-6-4973)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 5](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-5-2hdm)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 4](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-4-5hc2)
@@ -72,5 +73,4 @@
 - [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 - [Authentication system using Golang and Sveltekit - Updating the frontend](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-updating-the-frontend-4a1g)
 - [Authentication system using Golang and Sveltekit - Profile update and app metric](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-profile-update-and-app-metric-4lhj)
-- [Authentication system using Golang and Sveltekit - Regenerate token &amp; Password change](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-regenerate-token-password-change-5g4p)
 <!-- BLOG-POST-LIST:END -->
