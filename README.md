@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on any projects.
 - 🤔 I’m looking for help with Data structures and Algorithms.
 - 💬 Ask me about anything on your mind. I may have answers, you know...
-- 📫 How to reach me: Contact me via "sirneij[at]gmail[dot] com"
+- 📫 How to reach me: Contact me via "john.owolabi.idogun[at]gmail[dot] com"
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
