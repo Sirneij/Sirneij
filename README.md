@@ -18,10 +18,10 @@
 </div>
 
 --- 
- Hi, I am John 👋! A Software Engineer crafting user-friendly web apps with Python (Django), Rust (Actix, Axum), Golang, and diverse front-end frameworks. Passionate about tackling complex problems and building impactful software with collaborative teams. Seeking an opportunity to learn and contribute to something meaningful.
-- 🔭 I’m interested in working on FinTech products, automating some important business tasks.
+ Hi, I am John 👋! A Software Engineer crafting user-friendly web apps with Python (Django), Rust (Actix, Axum), Golang, and diverse front-end frameworks. Passionate about tackling complex problems and building impactful software with collaborative teams. I am actively seeking opportunities.
+- 🔭 I’m interested in working on any products, automating important business tasks.
 - 🌱 I’m currently learning rust and machine learning. I love Rust's speed and type-safe implementation. WebAsm is also appealing!
-- 👯 I’m looking to collaborate on Rust and Python projects.
+- 👯 I’m looking to collaborate on any projects.
 - 🤔 I’m looking for help with Data structures and Algorithms.
 - 💬 Ask me about anything on your mind. I may have answers, you know...
 - 📫 How to reach me: Contact me via "sirneij[at]gmail[dot] com"
