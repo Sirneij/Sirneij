@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://tenor.com/qEufnOusfHm.gif" style="width:300px; border-radius: 50px;"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh0cXN1OW94Y2cyaHVpOG9xeW5pNnJzbGd6YnI1d2E2aGtjdzVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" style="width:300px; border-radius: 50px;"/>
  <div id="badges">
   <a href="https://www.linkedin.com/in/john-owolabi-idogun">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
