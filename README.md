@@ -1,6 +1,6 @@
  <div id="header" align="center">
-  <div style="width:300px; border-radius: 50px;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh0cXN1OW94Y2cyaHVpOG9xeW5pNnJzbGd6YnI1d2E2aGtjdzVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif"/>
+  <div style="border-radius: 50px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh0cXN1OW94Y2cyaHVpOG9xeW5pNnJzbGd6YnI1d2E2aGtjdzVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" width="300"/>
   </div>
  <div id="badges">
   <a href="https://www.linkedin.com/in/john-owolabi-idogun">
