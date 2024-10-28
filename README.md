@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="coding.gif" style="width:300px; border-radius: 50%;"/>
+  <img src="coding.gif" style="width:300px; border-radius: 50px;"/>
  <div id="badges">
   <a href="https://www.linkedin.com/in/john-owolabi-idogun">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
