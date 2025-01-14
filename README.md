@@ -20,7 +20,7 @@
 </div>
 
 --- 
- Hi, I am John 👋! A Software Engineer crafting user-friendly web apps with Python (Django), Rust (Actix, Axum), Golang, and diverse front-end frameworks. Passionate about tackling complex problems and building impactful software with collaborative teams. I am actively seeking opportunities.
+ Hi, **I am John 👋!** A Software Engineer crafting user-friendly web apps with Python (Django), Rust (Actix, Axum), Golang, and diverse front-end frameworks. Passionate about tackling complex problems and building impactful software with collaborative teams. I am actively seeking opportunities.
 - 🔭 I’m interested in working on any products, automating important business tasks.
 - 🌱 I’m currently learning rust and machine learning. I love Rust's speed and type-safe implementation. WebAsm is also appealing!
 - 👯 I’m looking to collaborate on any projects.
