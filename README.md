@@ -20,7 +20,7 @@
 </div>
 
 --- 
- Hi, **I am John 👋!** Software Engineer with 4+ years of experience, including FinTech, freelancing, and research. Skilled in building scalable, secure systems using Python, C++, C#, Java, JavaScript, Go, and Rust. Proven success in automating processes, enhancing user experiences, and integrating innovative solutions. I am actively seeking opportunities.
+Software Engineer with 4+ years of experience, including FinTech, freelancing, and research. Skilled in building scalable, secure systems using Python, C++, C#, Java, JavaScript, Go, and Rust. Proven success in automating processes, enhancing user experiences, and integrating innovative solutions. I am actively seeking opportunities.
 - 🔭 I’m interested in working on any products, automating important business tasks.
 - 🌱 I’m currently learning rust and machine learning. I love Rust's speed and type-safe implementation. WebAsm is also appealing!
 - 👯 I’m looking to collaborate on any projects.
