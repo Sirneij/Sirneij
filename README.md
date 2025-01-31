@@ -63,6 +63,7 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [TailwindCSS v4.0: Upgrading from v3 with some plugins](https://dev.to/sirneij/tailwindcss-v40-upgrading-from-v3-with-some-plugins-572f)
 - [Building TailwindUI&#39;s Spotlight using SvelteKit and Svelte 5 with TailwindCSS](https://dev.to/sirneij/building-tailwinduis-spotlight-using-sveltekit-and-svelte-5-with-tailwindcss-5f7f)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 6](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-6-4973)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 5](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-5-2hdm)
@@ -74,5 +75,4 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 - [Distributed Systems: Challenges, Experiences and Tips](https://dev.to/sirneij/distributed-systems-challenges-experiences-and-tips-eik)
 - [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 - [Authentication system using Golang and Sveltekit - Updating the frontend](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-updating-the-frontend-4a1g)
-- [Authentication system using Golang and Sveltekit - Profile update and app metric](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-profile-update-and-app-metric-4lhj)
 <!-- BLOG-POST-LIST:END -->
