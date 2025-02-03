@@ -63,6 +63,7 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 1: The AI Service](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-2658)
 - [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 0](https://dev.to/sirneij/building-an-ai-powered-financial-data-analyzer-with-nodejs-python-sveltekit-and-tailwindcss--183k)
 - [TailwindCSS v4.0: Upgrading from v3 with some plugins](https://dev.to/sirneij/tailwindcss-v40-upgrading-from-v3-with-some-plugins-572f)
 - [Building TailwindUI&#39;s Spotlight using SvelteKit and Svelte 5 with TailwindCSS](https://dev.to/sirneij/building-tailwinduis-spotlight-using-sveltekit-and-svelte-5-with-tailwindcss-5f7f)
@@ -74,5 +75,4 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 1](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-1-2mnn)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 0](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-0-mn5)
 - [Distributed Systems: Challenges, Experiences and Tips](https://dev.to/sirneij/distributed-systems-challenges-experiences-and-tips-eik)
-- [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 <!-- BLOG-POST-LIST:END -->
