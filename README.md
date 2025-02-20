@@ -63,6 +63,7 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Server: Building and Rigorously Testing a WebSocket and HTTP Server](https://dev.to/sirneij/asynchronous-server-building-and-rigorously-testing-a-websocket-and-http-server-4kke)
 - [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 4](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-39p3)
 - [Building a financial dashboard with HTML5, TailwindCSS v4, and Vanilla JavaScript](https://dev.to/sirneij/building-a-financial-dashboard-with-html5-tailwindcss-v4-and-vanilla-javascript-5cmb)
 - [Consuming paginated API using periodic Celery task in a Django Application](https://dev.to/sirneij/consuming-paginated-api-using-periodic-celery-task-in-a-django-application-1l2b)
@@ -74,5 +75,4 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 - [Building TailwindUI&#39;s Spotlight using SvelteKit and Svelte 5 with TailwindCSS](https://dev.to/sirneij/building-tailwinduis-spotlight-using-sveltekit-and-svelte-5-with-tailwindcss-5f7f)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 6](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-6-4973)
 - [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 5](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-5-2hdm)
-- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 4](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-4-5hc2)
 <!-- BLOG-POST-LIST:END -->
