@@ -63,6 +63,7 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Information Processing: Foundations - Part 1](https://dev.to/sirneij/quantum-information-processing-foundations-part-1-57k6)
 - [How to Build a Dual-LLM Chat Application with Next.js, Python, and WebSocket Streaming](https://dev.to/sirneij/how-to-build-a-dual-llm-chat-application-with-nextjs-python-and-websocket-streaming-1e5l)
 - [Asynchronous Server: Building and Rigorously Testing a WebSocket and HTTP Server](https://dev.to/sirneij/asynchronous-server-building-and-rigorously-testing-a-websocket-and-http-server-4kke)
 - [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 4](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-39p3)
@@ -74,5 +75,4 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 - [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 0](https://dev.to/sirneij/building-an-ai-powered-financial-data-analyzer-with-nodejs-python-sveltekit-and-tailwindcss--183k)
 - [TailwindCSS v4.0: Upgrading from v3 with some plugins](https://dev.to/sirneij/tailwindcss-v40-upgrading-from-v3-with-some-plugins-572f)
 - [Building TailwindUI&#39;s Spotlight using SvelteKit and Svelte 5 with TailwindCSS](https://dev.to/sirneij/building-tailwinduis-spotlight-using-sveltekit-and-svelte-5-with-tailwindcss-5f7f)
-- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 6](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-6-4973)
 <!-- BLOG-POST-LIST:END -->
