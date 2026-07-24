@@ -63,6 +63,7 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Information Processing: Foundations - Part 3](https://dev.to/sirneij/quantum-information-processing-foundations-part-3-2ea5)
 - [Introducing Schemd: a small text-to-SVG compiler for circuits and UML](https://dev.to/sirneij/introducing-schemd-a-small-text-to-svg-compiler-for-circuits-and-uml-1i6p)
 - [Integrating Stripe with SvelteKit: Dynamic Pricing and Payment Security](https://dev.to/sirneij/integrating-stripe-with-sveltekit-dynamic-pricing-and-payment-security-30l7)
 - [Quantum Information Processing: Foundations - Part 1](https://dev.to/sirneij/quantum-information-processing-foundations-part-1-57k6)
@@ -74,5 +75,4 @@ Software Engineer with 4+ years of experience, including FinTech, freelancing, a
 - [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 3: Transactions](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-3n49)
 - [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 2: GitHub OAuth](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-73g)
 - [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 1: The AI Service](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-2658)
-- [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 0](https://dev.to/sirneij/building-an-ai-powered-financial-data-analyzer-with-nodejs-python-sveltekit-and-tailwindcss--183k)
 <!-- BLOG-POST-LIST:END -->
